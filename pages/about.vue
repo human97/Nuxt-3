@@ -1,0 +1,15 @@
+<template>
+    <div>
+        <h1>About</h1>
+        <p>This is the About page</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolor enim iusto mollitia vel ab? Sed tempora suscipit impedit facere enim, delectus alias sint accusamus consequuntur, iste eos dolores possimus nostrum architecto exercitationem!</p>
+    </div>
+</template>
+
+<script setup>
+
+</script>
+
+<style scoped>
+
+</style>
